@@ -1,0 +1,1 @@
+Data Science Intern at Unified Mentor Private Limited: Here, I work on various data science projects, ranging from data preprocessing and visualization to building predictive models and deploying them into production.
